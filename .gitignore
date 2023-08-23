@@ -1,3 +1,6 @@
 build
+.*
+!.gitignore
 debunk.txt
 *.a
+!t3.a
