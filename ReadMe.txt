@@ -1,4 +1,5 @@
 Now Start GitTest
-This is the first Try
+This is the first Try。
+i need drink
 Im Happy with Master. Try Merge Me!
 
